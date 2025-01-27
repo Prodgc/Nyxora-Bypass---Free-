@@ -1,0 +1,7 @@
+[TabName] = Services
+[icon] = Rewind
+[Buttons] = [
+{test buton}, {button2}, {button3},
+]
+
+

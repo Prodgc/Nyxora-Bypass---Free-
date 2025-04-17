@@ -1,0 +1,22 @@
+{
+    "name": "Plugin Example",
+    "author": "robloxdev123",
+    "tabs": [
+        {
+            "Name": "Sentences",
+            "Icon": "4483362458",
+            "Content": [
+                "hello world!",
+                "yo wssup"
+            ]
+        },
+        {
+            "Name": "Woman",
+            "Icon": "4483362458",
+            "Content": [
+                "hi lady",
+                "brah i love gurl"
+            ]
+        }
+    ]
+}

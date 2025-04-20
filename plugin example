@@ -1,23 +1,23 @@
 {
-    "name": "Plugin Example", --// Plugins Name \\--
-    "author": "profsfemboy512",  --// Creators Discord Name \\--
+    "name": "Plugin Example", 
+    "author": "profsfemboy512",  
     "tabs": [
         {
-            "Name": "Tab1",  --// Tab Name \\--
-            "Icon": "book",    --// Tab Icon, Lucide Or Roblox ID \\--
-            "Content": [   --// Create Phrases For Current Tab\\--
+            "Name": "Tab1",  
+            "Icon": "book",   
+            "Content": [ 
                 "My Phrase #1",
                 "My Phrase #2",
-                "My Phrase #3"
+                "My Phrase #3",
             ]
         },
         {
-            "Name": "Tab2",    --// Tab Name \\--
-            "Icon": "smile",    --// Tab Icon, Lucide Or Roblox ID \\--
-            "Content": [   --// Create Phrases For Current Tab\\--
+            "Name": "Tab2",   
+            "Icon": "smile",  
+            "Content": [  
                 "My Phrase #1",
                 "My Phrase #2",
-                "My Phrase #3"
+                "My Phrase #3",
             ]
         }
     ]

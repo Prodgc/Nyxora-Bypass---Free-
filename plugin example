@@ -1,23 +1,23 @@
 {
-    "name": "Plugin Example",
-    "author": "uqij",
+    "name": "Plugin Example", --// Plugins Name \\--
+    "author": "profsfemboy512",  --// Creators Discord Name \\--
     "tabs": [
         {
-            "Name": "Utilities",
-            "Icon": "settings",
-            "Content": [
-                "print('Utilities loaded')",
-                "/e wave",
-                "/e laugh"
+            "Name": "Tab1",  --// Tab Name \\--
+            "Icon": "book",    --// Tab Icon, Lucide Or Roblox ID \\--
+            "Content": [   --// Create Phrases For Current Tab\\--
+                "My Phrase #1",
+                "My Phrase #2",
+                "My Phrase #3"
             ]
         },
         {
-            "Name": "Fun Stuff",
-            "Icon": "smile",
-            "Content": [
-                "print('Have fun!')",
-                "/e dance",
-                "/e cheer"
+            "Name": "Tab2",    --// Tab Name \\--
+            "Icon": "smile",    --// Tab Icon, Lucide Or Roblox ID \\--
+            "Content": [   --// Create Phrases For Current Tab\\--
+                "My Phrase #1",
+                "My Phrase #2",
+                "My Phrase #3"
             ]
         }
     ]

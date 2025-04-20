@@ -3,21 +3,21 @@
     "author": "uqij",
     "tabs": [
         {
-            "Name": "sentences",
+            "Name": "Utilities",
             "Icon": "settings",
             "Content": [
-                "yo nigga wssup",
-                "test message.",
-                "wanna fuck?" ❤️‍🔥🔥
+                "print('Utilities loaded')",
+                "/e wave",
+                "/e laugh"
             ]
         },
         {
             "Name": "Fun Stuff",
             "Icon": "smile",
             "Content": [
-                "haha so funny retard",
-                "monkey boy dancing wtf",
-                "Keep smiling. LOOL"
+                "print('Have fun!')",
+                "/e dance",
+                "/e cheer"
             ]
         }
     ]

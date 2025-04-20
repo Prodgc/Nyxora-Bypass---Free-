@@ -1,7 +1,24 @@
 {
-    "TabName": "Services",
-    "Icon": "Rewind",
-    "Buttons": [
-        "test buton", "button2", "button3"
+    "name": "Plugin Example",
+    "author": "uqij",
+    "tabs": [
+        {
+            "Name": "Utilities",
+            "Icon": "settings",
+            "Content": [
+                "Hello, welcome to the plugin!",
+                "This is a utility message.",
+                "Utilities activated successfully."
+            ]
+        },
+        {
+            "Name": "Fun Stuff",
+            "Icon": "smile",
+            "Content": [
+                "Let's have some fun today!",
+                "Enjoy every moment.",
+                "Keep smiling and stay positive."
+            ]
+        }
     ]
 }
